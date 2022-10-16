@@ -8,10 +8,10 @@
     <language>ru</language><atom:link href="https://mironovmike.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://mironovmike.github.io/about/</link>
+      <link>https://mironovmike.github.io/</link>
       <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>https://mironovmike.github.io/about/</guid>
+      <guid>https://mironovmike.github.io/</guid>
       
         <description>Java  Java Core JPA (Hibernate), Spring Actuator, Hibernate Validation, Spring Web, Spring Cloud Config, Slf4j, Lombok, Spring Cloud Load Balancer, Netflix Eureka, Eureka Discovery Client, Load Balanced Spring REST template, Resilience4j, Spring Gateway.</description>
       
