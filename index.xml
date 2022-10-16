@@ -13,7 +13,7 @@
       
       <guid>https://mironovmike.github.io/about/</guid>
       
-        <description>Java  Java Core Spring (Boot, MVC, AOP, JUnit, Data, etc&amp;hellip;)  Технологии  PHP 7+, Xdebug, SQL ORM, D7 Javascript, Vue, jQuery, Bitrix.</description>
+        <description>Java  Java Core JPA (Hibernate), Spring Actuator, Hibernate Validation, Spring Web, Spring Cloud Config, Slf4j, Lombok, Spring Cloud Load Balancer, Netflix Eureka, Eureka Discovery Client, Load Balanced Spring REST template, Resilience4j, Spring Gateway.</description>
       
     </item>
     
