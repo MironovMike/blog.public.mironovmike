@@ -9,11 +9,11 @@
     <item>
       <title></title>
       <link>https://mironovmike.github.io/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 10 Apr 2022 00:00:00 +0000</pubDate>
       
       <guid>https://mironovmike.github.io/</guid>
       
-        <description>author = &amp;ldquo;Mironov Mike&amp;rdquo; date = &amp;ldquo;2022-04-10&amp;rdquo; draft = false +++</description>
+        <description>Разработка Bitrix, Bitrix24 - официальная сертификация на уровень &amp;ldquo;профессионал&amp;rdquo;. Использование продвинутых паттернов и архитектурных решений, применяемых в Java-разработке Bitrix ORM, Bitrix D7 Java Core JPA (Hibernate), Spring Actuator, Hibernate Validation, Spring Web, Spring Cloud Config, Spring Cloud Stream, Spring Cloud Sleuth, Slf4j, Lombok, Spring Cloud Load Balancer, Netflix Eureka, Eureka Discovery Client, Load Balanced Spring REST template, Resilience4j, Spring Gateway, Keycloak, JWT, Redis, Kafka, Logstash, Elasticsearch, Kibana, Zipkin.</description>
       
     </item>
     
